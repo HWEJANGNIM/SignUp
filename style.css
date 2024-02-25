@@ -12,6 +12,6 @@ grid-template-rows:minmax(100px 100%);
 
 .item{
 grid-area: 1 / 1 / 5 / 5;
-border: 1px solid dotted;
+border: 1px solid darkslategrey;
 }
 
