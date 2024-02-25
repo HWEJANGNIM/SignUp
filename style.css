@@ -6,12 +6,10 @@ family-font: monospace;
 
 .container{
 display: grid;
+background-color: darkslategrey;
 grid-template-columns:repeat(5, 20%);
 grid-template-rows:minmax(100px 100%);
 }
 
-.item{
-grid-area: 1 / 1 / 5 / 5;
-border: 1px solid darkslategrey;
-}
+
 
