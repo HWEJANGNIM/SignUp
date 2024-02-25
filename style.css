@@ -18,6 +18,10 @@ display: grid;
   font-size: 30px;
 }
 
+.item-1{
+grid-area: 1 / 1 / span 2/ span 3;
+}
+
 
 
 
